@@ -10,4 +10,16 @@ const kLabelTextStyle = TextStyle(
   color: Color(0xFF8D8E98),
 );
 
-const kNumberTextStyle = TextStyle(fontSize: 50.0, fontWeight: FontWeight.w900);
+const kNumberTextStyle = TextStyle(fontSize: 60.0, fontWeight: FontWeight.w900);
+
+const kCalculateTextStyle = TextStyle(
+  fontSize: 30.0,
+  fontWeight: FontWeight.bold,
+  color: Color(0xFFFFFFFF),
+);
+
+const kResultHeaderTextStyle = TextStyle(
+  fontSize: 40.0,
+  fontWeight: FontWeight.bold,
+  color: Color(0xFFFFFFFF),
+);
